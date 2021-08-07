@@ -7,6 +7,6 @@ public class MyThirdClass {
         int y=0;
         
         
-     System.out.prinln("this is ...");   
+     System.out.println("this is ...");
     }
 }
