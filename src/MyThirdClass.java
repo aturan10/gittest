@@ -3,6 +3,10 @@ public class MyThirdClass {
        int x=5;
        int sum = x+2;
        System.out.println(sum);
-       int y=0;
+      
+        int y=0;
+        
+        
+     System.out.prinln("this is ...");   
     }
 }
